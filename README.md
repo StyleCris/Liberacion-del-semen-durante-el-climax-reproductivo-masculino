@@ -7,3 +7,5 @@ Las particulas son circulos muy pequeños que se generan cada milisegundo los cu
         c["x"] += c["vx"]
         c["y"] -= c["vy"]
 que se encarga de cambiar la velocidad de los circulos en x and y para hacer una simulacion de fisicas
+# Audio
+El codigo reproduce un audio en bucle para dar ambiente
